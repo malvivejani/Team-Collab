@@ -10,6 +10,7 @@ A simple **full-stack collaboration app** built with:
 ## 🚀 Getting Started
 
 ### Backend Setup
+
 ```bash
 cd backend
 yarn install
@@ -18,6 +19,7 @@ yarn start:dev
 ```
 
 ### Frontend Setup
+
 ```bash
 cd frontend
 yarn install
@@ -25,12 +27,14 @@ yarn dev
 ```
 
 ### Default Seed User
+
 ```
 email: demo@teamcollab.app
 password: demo123
 ```
 
 ## Repo Structure
+
 ```
 teamcollab-lite/
   backend/    # NestJS API + WebSockets
