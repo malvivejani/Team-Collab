@@ -40,5 +40,3 @@ teamcollab-lite/
   backend/    # NestJS API + WebSockets
   frontend/   # React + Tailwind app
 ```
-
-This project is made to **showcase full-stack skills** for recruiters.
